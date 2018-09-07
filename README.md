@@ -6,6 +6,7 @@ renderer to make native apps through [yue](https://github.com/yue/yue).
 This app setup showcases live reload in development through rollup + nodemon
 and building a binary of your app.
 
+支持NODE8、9
 ## Setup
 
 Install the dependencies (use either `yarn` or `npm`):
@@ -13,7 +14,7 @@ Install the dependencies (use either `yarn` or `npm`):
 ```
 npm install
 ```
-
+可以提前去https://github.com/yue/yode/releases下载好压缩包，放在根目录
 ```
 npm run setup
 ```

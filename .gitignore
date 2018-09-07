@@ -7,3 +7,4 @@ node_modules
 *.tmp
 *.log
 package-json.lock
+*.zip

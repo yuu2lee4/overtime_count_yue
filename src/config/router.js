@@ -1,6 +1,6 @@
-import home from './views/home';
-import filedMatch from './views/filedMatch';
-import setting from './views/setting';
+import home from '../views/home';
+import filedMatch from '../views/filedMatch';
+import setting from '../views/setting';
 
 export default [{
     name: 'home',
